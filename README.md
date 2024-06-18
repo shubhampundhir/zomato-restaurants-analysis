@@ -1,4 +1,4 @@
-# Zomato Restaurants Analysis 🍕🍽️🥗
+# Zomato Restaurants Analysis 🍽️
 
 ## About Project:
   In this project I built a basic recommendation system for Zomato restaurants in Bangalore, IN. Although the main task is to analyze the data and gain strong insights which will help Zomato for decision making. This analysis will also help those people who want start their restaurant/cafe/food chain in Bangalore, IN. I used the data from Kaggle itself which is in the form of `.csv`.
