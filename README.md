@@ -1,7 +1,7 @@
 # Zomato Restaurants Analysis 🍕🍽️🥗
 
 ## About Project:
-  In this project I built a basic recommendation system for Zomato restaurants in Bangalore, IN. Although the main task is to analyze the data and gain strong insights which will help Zomato for decision making. This analysis will also help those people who want start their restaurant/cafe/food chain in Bangalore, IN. This notebook is actually from my [my Kaggle](https://www.kaggle.com/karan842). I used the data from Kaggle itself which is in the form of `.csv`.
+  In this project I built a basic recommendation system for Zomato restaurants in Bangalore, IN. Although the main task is to analyze the data and gain strong insights which will help Zomato for decision making. This analysis will also help those people who want start their restaurant/cafe/food chain in Bangalore, IN. I used the data from Kaggle itself which is in the form of `.csv`.
   
  
  
@@ -28,13 +28,9 @@ This data set consists of restaurants of Bangalore,India collected from Zomato.
 
 My aim is to create a content based recommender system in which when I will write a restaurant name, Recommender system will look at the reviews of other restaurants, and System will recommend us other restaurants with similar reviews and sort them from the highest rated.
 
-### Post-Script:
-Dynamic visualization is not supported by GitHub(if you know then please let me know) so here is the [link of the notebook](https://www.kaggle.com/code/karan842/zomato-eda-and-recommendation-system).
 
 **Contact Me:**
 
-- karanshingde@gmail.com
+- shubhampundhir1999@gmail.com
 
-- [My Twitter](https://www.twitter.com/KuchBhiKaran)
-
-- [My LinkedIn](https://www.linkedin.com/in/karanshingde)
+- [My LinkedIn](https://www.linkedin.com/in/shubhampundhir)
